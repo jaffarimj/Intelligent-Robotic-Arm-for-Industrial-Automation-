@@ -21,6 +21,12 @@ This project develops a 5 Degree of Freedom (DOF) Robotic Arm engineered for hig
 
 ## Applications
 The robotic arm enhances operational efficiency across multiple sectors:
+- **Oil and Gas Field**
+- **Remote Handling in Hazardous Environments**
+- **Automated Inspection and Maintenance**
+- **Precision Control for Drilling Equipment**
+- **Material Handling and Sorting**
+- **Emergency Response**
 - **Manufacturing and Assembly**
 - **Logistics and Warehousing**
 - **Healthcare and Laboratory Applications**
