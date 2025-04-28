@@ -40,11 +40,15 @@ The robotic arm enhances operational efficiency across multiple sectors:
 - **Integration**: Compatible with a range of sensors and control systems.
 
 
-# Arduino Controlled 5 DoF Robot Arm
 
-This repository contains the code needed to remotely control the 5 DoF robot arm that I built [here](https://joshschertz.com/2017/07/15/Robot-Arm-Part-1-Arm-Build/). You can read my post about the project [here](https://joshschertz.com/2020/02/05/Robot-Arm-Part-6-Advanced-Code/). If you want to duplicate the same development environment, I recommend you use [VSCode](https://code.visualstudio.com/) with [PlatformIO](https://platformio.org/). PlatformIO handles complex Arduino projects better than native Arduino IDE. This is important for this project because it is using two Arduinos.
+![Trajectory](https://github.com/user-attachments/assets/431bec94-2d34-451d-8697-44c7abaec11c)
+![validation forward 3](https://github.com/user-attachments/assets/5dcef8d8-9e94-4aba-9abe-62a684fe4273)
+![validation forward 2](https://github.com/user-attachments/assets/136e3755-78f4-4904-9734-5cd2511ebfbc)
+![validation forward 1](https://github.com/user-attachments/assets/ec6697cf-ffeb-4125-aa6b-3569d5ee5305)
+![forward validation 3](https://github.com/user-attachments/assets/4525e329-758b-4d17-b0fc-e70417639369)
+![forward validation 2](https://github.com/user-attachments/assets/5371db9f-f1f5-405c-980c-a264e6fafb6b)
+![forwad validation 1](https://github.com/user-attachments/assets/6b853fce-a420-4880-b804-f832e8de8b0a)
 
-![Robot arm and controller][robot_arm_and_controller]
 
 ## Hardware Components
 
@@ -93,13 +97,4 @@ The following image shows the LCD status during normal operation. The top row sh
 The following image shows the LCD status with a failed connection between the controller and robot arm. The top row will still show the joystick signals, however, the connection status will show an `X`. The bottom row will show `NA` indicating no data is available.
 
 ![Controller LCD failed][controller_lcd_failed]
-
-
-![Trajectory](https://github.com/user-attachments/assets/431bec94-2d34-451d-8697-44c7abaec11c)
-![validation forward 3](https://github.com/user-attachments/assets/5dcef8d8-9e94-4aba-9abe-62a684fe4273)
-![validation forward 2](https://github.com/user-attachments/assets/136e3755-78f4-4904-9734-5cd2511ebfbc)
-![validation forward 1](https://github.com/user-attachments/assets/ec6697cf-ffeb-4125-aa6b-3569d5ee5305)
-![forward validation 3](https://github.com/user-attachments/assets/4525e329-758b-4d17-b0fc-e70417639369)
-![forward validation 2](https://github.com/user-attachments/assets/5371db9f-f1f5-405c-980c-a264e6fafb6b)
-![forwad validation 1](https://github.com/user-attachments/assets/6b853fce-a420-4880-b804-f832e8de8b0a)
 
