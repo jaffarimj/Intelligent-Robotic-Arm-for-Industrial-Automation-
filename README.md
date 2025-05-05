@@ -92,7 +92,7 @@ After processing arm movements, the arm transmits its status back to the control
 
 The following image shows the LCD status during normal operation. The top row shows the direction of the joystick signals, and the state of the connection between the controller and robot arm. The bottom row shows the servo angles and the status of the claw (open or close).
 
-![Controller LCD active][controller_lcd_active]
+
 
 
 
