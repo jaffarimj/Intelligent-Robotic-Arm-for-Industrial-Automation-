@@ -88,13 +88,11 @@ After processing arm movements, the arm transmits its status back to the control
 
 ## Controller LCD
 
-![Controller complete][controller_complete]
+
 
 The following image shows the LCD status during normal operation. The top row shows the direction of the joystick signals, and the state of the connection between the controller and robot arm. The bottom row shows the servo angles and the status of the claw (open or close).
 
 ![Controller LCD active][controller_lcd_active]
 
-The following image shows the LCD status with a failed connection between the controller and robot arm. The top row will still show the joystick signals, however, the connection status will show an `X`. The bottom row will show `NA` indicating no data is available.
 
-![Controller LCD failed][controller_lcd_failed]
 
